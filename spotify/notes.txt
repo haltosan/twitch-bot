@@ -1,0 +1,1 @@
+This is a songbot module for the bot. The auth part is going to be a bit odd... I'll get there when I get there
