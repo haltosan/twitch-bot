@@ -1,0 +1,1 @@
+The bot is python3 built, so it is very easy to add to. My hope is that the base is open for modification and further development
